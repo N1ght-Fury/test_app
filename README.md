@@ -6,5 +6,5 @@ Test flutter app.
 
 
 <p float="left">
-  <img src="./images/image_0.png" width="100" />
+  <img src="./images/image_0.png" width="200" />
 </p>
