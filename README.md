@@ -10,5 +10,8 @@ Test flutter app.
   <img src="./images/image_1.png" width="200" />
   <img src="./images/image_2.png" width="200" />
   <img src="./images/image_3.png" width="200" />
-  <img src="./images/image_4.png" width="200" />
 </p>
+
+<video width="320" height="240" controls>
+  <source src="./video/video.mp4" type="video/mp4">
+</video>
